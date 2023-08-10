@@ -1,0 +1,26 @@
+ * ABOUT        XMRig/6.20.0-mo1 gcc/9.3.1
+ * LIBS         libuv/1.44.2 OpenSSL/1.1.1s hwloc/2.9.0
+ * HUGE PAGES   supported
+ * 1GB PAGES    disabled
+ * CPU          Intel(R) Xeon(R) CPU E5-2678 v3 @ 2.50GHz (4) 64-bit AES VM
+                L2:1.0 MB L3:120.0 MB 4C/4T NUMA:1
+ * MEMORY       2.5/3.7 GB (68%)
+                RAM slot #0: 4 GB DRAM @ 0 MHz RAM slot #0
+ * MOTHERBOARD  VMware, Inc. - VMware Virtual Platform
+ * DONATE       1%
+ * ASSEMBLY     auto:intel
+ * POOL #1      43.153.162.23:5555 algo auto
+ * COMMANDS     hashrate, pause, resume, results, connection
+ * OPENCL       disabled
+ * CUDA         disabled
+[2023-08-10 07:58:17.262]  config   configuration saved to: "/root/moneroocean/config.json"
+[2023-08-10 07:58:17.262]  benchmk   STARTING ALGO PERFORMANCE CALIBRATION (with 20 seconds round) 
+[2023-08-10 07:58:17.262]  benchmk   Algo ghostrider Preparation 
+[2023-08-10 07:58:17.267]  msr      register values for "intel" preset have been set successfully (5 ms)
+[2023-08-10 07:58:19.808]  cpu      use profile  ghostrider  (1 thread) scratchpad 2048 KB
+[2023-08-10 07:58:19.988]  cpu      READY threads 1/1 (8) huge pages 100% 8/8 memory 16384 KB (179 ms)
+[2023-08-10 07:58:19.988]  cpu      GhostRider algo 1: cn/dark (512 KB)
+[2023-08-10 07:58:19.988]  cpu      GhostRider algo 2: cn/fast (2 MB)
+[2023-08-10 07:58:19.988]  cpu      GhostRider algo 3: cn/turtle (256 KB)
+[2023-08-10 07:58:20.659]  benchmk   Algo ghostrider Starting test 
+[2023-08-10 07:58:42.231]  signal   Ctrl+C received, exiting
